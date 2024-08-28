@@ -1,5 +1,6 @@
 # 🌿 5Loi AILab
 
+欢迎访问我的网站 [5loi.com](https://5loi.com/about_loi)，了解更多信息，并与我交流您的想法！
 
 [![在 GitHub Codespaces 中打开](https://github.com/codespaces/badge.svg)](https://codespaces.new/wuloi/5loi-ailab?quickstart=1) 
 
@@ -12,12 +13,11 @@
 
 当前示例包括：
 
-- 聊天机器人
-- 文件问答
-- 带互联网搜索的聊天
-- LangChain 快速开始
-- LangChain 提示模板
-- 带用户反馈的聊天
+- [聊天机器人]((https://github.com/wuloi/5loi-ailab/blob/main/Chatbot.py))
+- [文件问答](https://github.com/wuloi/5loi-ailab/blob/main/pages/1_File_Q%26A.py)
+- [带互联网搜索的聊天](https://github.com/wuloi/5loi-ailab/blob/main/pages/2_Chat_with_search.py)
+- [LangChain 快速开始](https://github.com/wuloi/5loi-ailab/blob/main/pages/3_Langchain_Quickstart.py)
+- [LangChain 提示模板](https://github.com/wuloi/5loi-ailab/blob/main/pages/4_Langchain_PromptTemplate.py)
 
 ## 演示应用
 
@@ -50,3 +50,17 @@ source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run Chatbot.py
 ```
+
+## 加入社区 🌿
+
+欢迎访问我的网站 [5loi.com](https://5loi.com/about_loi)，了解更多信息，并与我交流您的想法！
+
+产品社区资源：
+
+- 欢迎加入 🌿觅识 社区 [AI PM「人工智能产品管理」](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
+
+技术研究资源：
+
+- [Generative-AI-Solutions](https://github.com/wuloi/Generative-AI-Solutions) 
+- [Building-LLM-powered-Solutions](https://github.com/wuloi/Building-LLM-powered-Solutions) 
+- [Generative-AI-on-BigOne](https://github.com/wuloi/Generative-AI-on-BigOne)

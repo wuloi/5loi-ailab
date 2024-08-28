@@ -10,8 +10,8 @@ with st.sidebar:
         "OpenAI API 密钥", key="langchain_search_api_key_openai", type="password"
     )
     "[申请一个 OpenAI API 密钥](https://platform.openai.com/account/api-keys)"
-    "[查看我们的源代码](https://github.com/wuloi/llm-labs/blob/main/pages/2_Chat_with_search.py)"
-    "[![在 GitHub Codespaces 中打开](https://github.com/codespaces/badge.svg)](https://codespaces.new/wuloi/llm-labs?quickstart=1)"
+    "[查看我们的源代码](https://github.com/wuloi/5loi-ailab/blob/main/pages/2_Chat_with_search.py)"
+    "[![在 GitHub Codespaces 中打开](https://github.com/codespaces/badge.svg)](https://codespaces.new/wuloi/5loi-ailab?quickstart=1)"
 
 import streamlit as st
 

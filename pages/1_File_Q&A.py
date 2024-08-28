@@ -3,8 +3,8 @@ import anthropic
 
 with st.sidebar:
     anthropic_api_key = st.text_input("Anthropic API 密钥", key="file_qa_api_key", type="password")
-    "[查看我们的源代码](https://github.com/wuloi/llm-labs/blob/main/pages/1_File_Q%26A.py)"
-    "[![在 GitHub Codespaces 中打开](https://github.com/codespaces/badge.svg)](https://codespaces.new/wuloi/llm-labs?quickstart=1)"
+    "[查看我们的源代码](https://github.com/wuloi/5loi-ailab/blob/main/pages/1_File_Q%26A.py)"
+    "[![在 GitHub Codespaces 中打开](https://github.com/codespaces/badge.svg)](https://codespaces.new/wuloi/5loi-ailab?quickstart=1)"
 
 import streamlit as st
 import anthropic
