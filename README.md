@@ -1,6 +1,10 @@
 # 🌿 5Loi AILab
 
-欢迎访问我的网站 [5loi.com](https://5loi.com/about_loi)，了解更多信息，并与我交流您的想法！
+利用开源技术，研究大型语言模型的原理和用例。
+
+欢迎访问我的网站 🐬[5loi.com](https://5loi.com/about_loi)，了解更多信息，并与我交流您的想法！
+
+欢迎加入 🌿觅识 社区 [AI PM「人工智能产品管理」](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
 
 [![在 GitHub Codespaces 中打开](https://github.com/codespaces/badge.svg)](https://codespaces.new/wuloi/5loi-ailab?quickstart=1) 
 
@@ -13,11 +17,11 @@
 
 当前示例包括：
 
-- [聊天机器人]((https://github.com/wuloi/5loi-ailab/blob/main/Chatbot.py))
-- [文件问答](https://github.com/wuloi/5loi-ailab/blob/main/pages/1_File_Q%26A.py)
-- [带互联网搜索的聊天](https://github.com/wuloi/5loi-ailab/blob/main/pages/2_Chat_with_search.py)
-- [LangChain 快速开始](https://github.com/wuloi/5loi-ailab/blob/main/pages/3_Langchain_Quickstart.py)
-- [LangChain 提示模板](https://github.com/wuloi/5loi-ailab/blob/main/pages/4_Langchain_PromptTemplate.py)
+- [聊天机器人💬](https://5loi-ailab.streamlit.app/) - [✍开源代码](https://github.com/wuloi/5loi-ailab/blob/main/Chatbot.py)
+- [文件问答📕](https://5loi-ailab.streamlit.app/File_Q&A) - [✍开源代码](https://github.com/wuloi/5loi-ailab/blob/main/pages/1_File_Q%26A.py)
+- [带互联网搜索的聊天🔍](https://5loi-ailab.streamlit.app/Chat_with_search) - [✍开源代码](https://github.com/wuloi/5loi-ailab/blob/main/pages/2_Chat_with_search.py)
+- [LangChain 快速开始🔗](https://5loi-ailab.streamlit.app/Langchain_Quickstart) - [✍开源代码](https://github.com/wuloi/5loi-ailab/blob/main/pages/3_Langchain_Quickstart.py)
+- [LangChain 提示模板❓](https://5loi-ailab.streamlit.app/Langchain_PromptTemplate) - [✍开源代码](https://github.com/wuloi/5loi-ailab/blob/main/pages/4_Langchain_PromptTemplate.py)
 
 ## 演示应用
 
